@@ -4,4 +4,4 @@
 Se ha añadido una nueva imagen solicitada a la rama `ValeriaRamirezRiaño`.
 
 - **Rama**: `ValeriaRamirezRiaño/`
-- **Archivo**: `ValeriaRamirezRiaño/Paella.png`
+- **Archivo**: `ValeriaRamirezRiaño/Paella.jpg`
