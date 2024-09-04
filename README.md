@@ -1,6 +1,13 @@
 # programacionparavideojuegosprueba
-## Actualización del proyecto
+===============================================================================
 
+## Actualización del Proyecto
+Se ha añadido una nueva imagen solicitada a la rama `JeremyMacglionnyRiveraArévalo`.
+- **Rama**: `JeremyMacglionnyRiveraArévalo/`
+- **Archivo**: `JeremyMacglionnyRiveraArévalo/Nuggets de pollo.jpg`
+===============================================================================
+
+## Actualización del proyecto
 Se ha añadido una nueva imagen solicitada a la rama `Cristian_Alexander_Parra_Guayacán`.
 - **Rama**: `Cristian_Alexander_Parra_Guayacán/`
 - **Archivo**: `5e9977d4903ac.jpeg`
@@ -19,8 +26,12 @@ Se ha añadido una nueva imagen solicitada a la rama `carlosMauricioLeon`.
 
 - # Actualización del Repositorio
 
-La carpeta `ValeriaRamirezRiaño` ha sido exitosamente mezclada con la rama `main`.
+La rama `ValeriaRamirezRiaño` ha sido exitosamente mezclada con la rama `main`.
 
 - # Actualización del Repositorio
 
-La carpeta `Cristian_Alexander_Parra_Guayacán` ha sido exitosamente mezclada con la rama `main`.
+La rama `Cristian_Alexander_Parra_Guayacán` ha sido exitosamente mezclada con la rama `main`.
+
+- # Actualización del Repositorio
+
+La rama `JeremyMacglionnyRiveraArévalo` ha sido exitosamente mezclada con la rama `main`.
