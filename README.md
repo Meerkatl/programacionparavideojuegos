@@ -1,4 +1,4 @@
-#gramacionparavideojuegosprueba
+#programacionparavideojuegosprueba
 ## Actualización del proyecto
 
 Se ha añadido una nueva imagen solicitada a la rama `Cristian_Alexander_Parra_Guayacán`.
