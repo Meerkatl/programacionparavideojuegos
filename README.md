@@ -2,6 +2,12 @@
 ===============================================================================
 
 ## Actualización del Proyecto
+Se ha añadido una nueva imagen solicitada a la rama `ErickXavierRiveraArévalo`.
+- **Rama**: `ErickXavierRiveraArévalo/`
+- **Archivo**: `ErickXavierRiveraArévalo/Bandeja paisa.jpg`
+===============================================================================
+
+## Actualización del Proyecto
 Se ha añadido una nueva imagen solicitada a la rama `JeremyMacglionnyRiveraArévalo`.
 - **Rama**: `JeremyMacglionnyRiveraArévalo/`
 - **Archivo**: `JeremyMacglionnyRiveraArévalo/Nuggets de pollo.jpg`
@@ -35,3 +41,7 @@ La rama `Cristian_Alexander_Parra_Guayacán` ha sido exitosamente mezclada con l
 - # Actualización del Repositorio
 
 La rama `JeremyMacglionnyRiveraArévalo` ha sido exitosamente mezclada con la rama `main`.
+
+- # Actualización del Repositorio
+
+La rama `ErickXavierRiveraArévalo` ha sido exitosamente mezclada con la rama `main`.
